@@ -34,14 +34,6 @@ These modules are based on *The Nature of Code* book by Daniel Shiffman. They co
 - **Week 10**: Neural Networks & Neuroevolution (Chapters 10-11)
 - **Weeks 12-14**: Final Project & Presentations
 
----
-
-### Code Resources:
-- [Book's Website](https://natureofcode.com)
-- [GitHub Repository](https://github.com/nature-of-code)
-
----
-
 ### Exercises:
 Each chapter includes exercises that help you apply the concepts:
 - Example: Modify an existing sketch to add random sizes to circles.
@@ -50,6 +42,12 @@ Each chapter includes exercises that help you apply the concepts:
 
 ### Ecosystem Project:
 An example project is building a digital ecosystem. This is a world of animated creatures for a museum exhibit, integrating concepts from each chapter.
+
+---
+
+### Code Resources:
+- [Book's Website](https://natureofcode.com)
+- [GitHub Repository](https://github.com/nature-of-code)
 
 ---
 
